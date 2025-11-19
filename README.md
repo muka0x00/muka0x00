@@ -20,7 +20,7 @@
 ☕ A coffee enthusiast by day, I ensure that every digital adventure starts and ends with a strong cup of coffee to fuel my passion for cybersecurity.
 
 
-🔗 Check out my [Blog](https://ibrahim-sallam.me/) to explore in-depth articles on cybersecurity and stay updated on the latest security trends.
+🔗 Check out my [Blog](https:/muka0x00.github.io) to explore in-depth articles on cybersecurity and stay updated on the latest security trends.
 
 
 ### Skills and Expertise:
